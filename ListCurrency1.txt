@@ -1,0 +1,1 @@
+﻿{"results":{"EUR":{"currencyName":"Euro","currencySymbol":"€","id":"EUR"},"USD":{"currencyName":"United States Dollar","currencySymbol":"$","id":"USD"},"RUB":{"currencyName":"Russian Ruble","currencySymbol":"руб","id":"RUB"},"UAH":{"currencyName":"Ukrainian Hryvnia","currencySymbol":"₴","id":"UAH"}}}
